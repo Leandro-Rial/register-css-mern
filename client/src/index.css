@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Open+Sans&family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    background: #f6f6f7;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+}
+
+/* 
+    font-body: font-family: 'Open Sans', sans-serif;
+    font-title: font-family: 'Montserrat', sans-serif;
+    font-links: font-family: 'Oswald', sans-serif;
+*/
